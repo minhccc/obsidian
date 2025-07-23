@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c5144b0e36b583c7",
+        "id": "235f5b193afa6a80",
         "type": "tabs",
         "children": [
           {
-            "id": "054607544f6fa312",
+            "id": "8e2bbde9af126b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "职工福利费.md",
+                "file": "税法.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "税法"
             }
           },
           {
-            "id": "26162ea9359cf41b",
+            "id": "2d504ad1dfbee5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整理笔记-企税汇缴资料包3.21.md",
+                "file": "经济法.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "经济法"
             }
           }
         ],
@@ -51,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -67,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -75,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "整理笔记-企税汇缴资料包3.21.md",
+                "file": "经济法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "经济法 的反向链接列表"
             }
           },
           {
@@ -115,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "整理笔记-企税汇缴资料包3.21.md",
+                "file": "经济法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "经济法 的出链列表"
             }
           },
           {
@@ -128,8 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -138,8 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "整理笔记-企税汇缴资料包3.21.md"
-              }
+                "file": "经济法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "经济法 的大纲"
             }
           }
         ]
@@ -159,10 +183,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "26162ea9359cf41b",
+  "active": "28b27afd32379a52",
   "lastOpenFiles": [
+    "税法.md",
+    "经济法.md",
+    "整理笔记-企税汇缴资料包3.21.md",
     "职工福利费.md",
-    "README.md",
-    "整理笔记-企税汇缴资料包3.21.md"
+    "1ABBEF4F.png",
+    "README.md"
   ]
 }
