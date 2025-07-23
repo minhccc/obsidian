@@ -1,60 +1,37 @@
 {
   "main": {
-    "id": "4a54f1a1b0e87e5e",
+    "id": "6333ece008a8ed2f",
     "type": "split",
     "children": [
       {
-        "id": "235f5b193afa6a80",
+        "id": "cdb798411add0523",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2bbde9af126b04",
+            "id": "6746154f449bc3ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "税法.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "税法"
-            }
-          },
-          {
-            "id": "2d504ad1dfbee5d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "经济法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "经济法"
-=======
-              "title": "工作"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a154fbbc13adb030",
+    "id": "2f85b5b9ab1206e5",
     "type": "split",
     "children": [
       {
-        "id": "ef70fe9f50d8f141",
+        "id": "088febba1c82c05c",
         "type": "tabs",
         "children": [
           {
-            "id": "28b27afd32379a52",
+            "id": "d7df28635776d306",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +44,7 @@
             }
           },
           {
-            "id": "e2227abf2510297e",
+            "id": "baa02d90c4c93355",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,7 +61,7 @@
             }
           },
           {
-            "id": "0920af6810fe303e",
+            "id": "de857df046b32f35",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "d7533e202c767aa3",
+    "id": "e6ca7f7757861858",
     "type": "split",
     "children": [
       {
-        "id": "d9c866e6355ef7f1",
+        "id": "c5404d1c88b37d58",
         "type": "tabs",
         "children": [
           {
-            "id": "6e02c02879c632e6",
+            "id": "382575b5fb138aff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经济法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,33 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "经济法 的反向链接列表"
-=======
-              "title": "工作 的反向链接列表"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
+              "title": "反向链接"
             }
           },
           {
-            "id": "df85bc9f6d1824fc",
+            "id": "36733ba3d61834f6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经济法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "经济法 的出链列表"
-=======
-              "title": "工作 的出链列表"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
+              "title": "出链"
             }
           },
           {
-            "id": "52c1a8b9eb291f4f",
+            "id": "4ab93ea509bf9921",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,26 +131,17 @@
             }
           },
           {
-            "id": "3e562c87384c0853",
+            "id": "3067c56ceae44ef1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "经济法.md",
-=======
-                "file": "工作.md",
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "经济法 的大纲"
-=======
-              "title": "工作 的大纲"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
+              "title": "大纲"
             }
           }
         ]
@@ -203,13 +161,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "28b27afd32379a52",
-  "lastOpenFiles": [
-    "税法.md",
-    "经济法.md",
-    "整理笔记-企税汇缴资料包3.21.md",
-    "职工福利费.md",
-    "1ABBEF4F.png",
-    "README.md"
-  ]
+  "active": "6746154f449bc3ce",
+  "lastOpenFiles": []
 }
