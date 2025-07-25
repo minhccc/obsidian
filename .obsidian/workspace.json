@@ -18,7 +18,6 @@
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "税法"
             }
           },
@@ -34,9 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "经济法"
-=======
-              "title": "工作"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
             }
           }
         ],
@@ -72,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#保证",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,11 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
               "title": "经济法 的反向链接列表"
-=======
-              "title": "工作 的反向链接列表"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
             }
           },
           {
@@ -141,11 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
               "title": "经济法 的出链列表"
-=======
-              "title": "工作 的出链列表"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
             }
           },
           {
@@ -169,21 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "经济法.md",
-=======
-                "file": "工作.md",
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
               "title": "经济法 的大纲"
-=======
-              "title": "工作 的大纲"
->>>>>>> af5af1ab0ef01f7ffedd88dabc61cc5715762213
             }
           }
         ]
@@ -203,12 +184,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "28b27afd32379a52",
+  "active": "2d504ad1dfbee5d9",
   "lastOpenFiles": [
-    "税法.md",
-    "经济法.md",
-    "整理笔记-企税汇缴资料包3.21.md",
     "职工福利费.md",
+    "经济法.md",
+    "税法.md",
+    "整理笔记-企税汇缴资料包3.21.md",
     "1ABBEF4F.png",
     "README.md"
   ]
